@@ -1,5 +1,9 @@
 # <h1 align="center">Site de um restaurante, desenvolvido para treinar e servir de exemplo</h1>
+<br>
+<h3 align="start">link do site</h3>
 
+<a>https://deangelleses.github.io/Site_restaurante-HTML-CSS-JavaScript_jQuery/</a>
+<br>
 ## 🚀 Tecnologias
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
