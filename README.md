@@ -39,7 +39,7 @@
 <ul>
   <li><b>HTML5</b></li>
   <li><b>CSS3</b> - Responsivo para mobile e tablet</li>
-  <li><b>JavaScript</b> - jQuery/li>
+  <li><b>JavaScript</b> - jQuery</li>
 </ul>
 
 <h2>⚙️ Funcionalidades</h2>
